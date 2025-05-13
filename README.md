@@ -39,4 +39,6 @@
 - 🔐 [Information-Flow-Tracker](https://github.com/ronakj8617/Information-Flow-Tracker): Taint-based flow analysis prototype for securing component interactions (Java, Spring Boot, MongoDB).
 - 🗜 [Huffman-Compression](https://github.com/ronakj8617/Huffman-File-Compressor): File compressor in C++ using bit-level encoding and custom memory management.
 - 🗳 [Secure-EVoting-Backend](https://github.com/ronakj8617/E-voting): Biometric-authenticated, fault-tolerant voting backend (C++, Android (Java), ASP.NET (C#), SQLite, MySQL, Firebase).
+- 🍕 [Nomadic-Foodie](https://github.com/ronakj8617/Nomadic-Foodie): An ML-powered web app that suggests restaurants based on user's spending and cuisine preference (Java, SpringBoot, React, Google Maps, Firebase)
+
 ---
