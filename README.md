@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I am Ronak Parmar
 
-<!--
-**ronakj8617/ronakj8617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Backend Systems, System-Level Programming, Cloud, and AI.
+- 🌱 I’m currently learning GenAI and Cybersecurity.
+- 👯 I’m looking to collaborate on research related to system-level programming, data security, data flow control, or software architecture.
+- 💬 Ask me about C++, Java, OS, multithreading, and IO-related things.
+- 📫 How to reach me: ronakp447450@gmail.com
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
+## Connect with me :
+![https://www.linkedin.com/in/ronakj8617/]([http://url/to/img.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQx72nL2ZQw4THXkQQ84xz7fQt9Ttoe9H2Eg&s))
