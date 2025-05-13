@@ -1,13 +1,45 @@
-## Hi there 👋, I am Ronak Parmar
+## Hi there 👋 I'm Ronak Parmar
 
+- 🔧 I work at the intersection of backend systems, low-level programming, and cloud infrastructure — building reliable, performant software in C++, Python, and Java.
+- 🌱 I'm actively exploring GenAI and cybersecurity — especially where they intersect with system design and data flow integrity.
+- 🧪 Passionate about system-level programming, data security, and software architecture — always up for research collaborations in these areas.
+- 🧵 Talk to me about C++, OS internals, multithreading, performance tuning, or any deep dive into input/output systems.
+- 📫 Reach me at: ronakp447450@gmail.com
 
-- 🔭 I’m currently working on Backend Systems, System-Level Programming, Cloud, and AI.
-- 🌱 I’m currently learning GenAI and Cybersecurity.
-- 👯 I’m looking to collaborate on research related to system-level programming, data security, data flow control, or software architecture.
-- 💬 Ask me about C++, Java, OS, multithreading, and IO-related things.
-- 📫 How to reach me: ronakp447450@gmail.com
-- 😄 Pronouns: He/Him
+---
 
---
-## Connect with me :
-![https://www.linkedin.com/in/ronakj8617/]([http://url/to/img.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQx72nL2ZQw4THXkQQ84xz7fQt9Ttoe9H2Eg&s))
+## 🚀 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronakj8617/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ronakj8617)
+
+---
+
+## 🧰 Languages and Tools
+
+<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<br /><br /><br />
+
+---
+## 🗂 Featured Projects
+
+- 🔐 [Information-Flow-Tracker](https://github.com/ronakj8617/Information-Flow-Tracker): Taint-based flow analysis prototype for securing component interactions (Java, Spring Boot, MongoDB).
+- 🗜 [Huffman-Compression](https://github.com/ronakj8617/Huffman-Compression): File compressor in C++ using bit-level encoding and custom memory management.
+- 🗳 [Secure-EVoting-Backend](https://github.com/ronakj8617/Secure-EVoting-Backend): Biometric-authenticated, fault-tolerant voting backend (C++, SQLite, MySQL).
+
+---
