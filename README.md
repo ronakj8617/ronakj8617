@@ -33,7 +33,7 @@
 <img align="left" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<br /><br /><br />
+<br />
 
 ---
 ## 🗂 Featured Projects
@@ -41,5 +41,4 @@
 - 🔐 [Information-Flow-Tracker](https://github.com/ronakj8617/Information-Flow-Tracker): Taint-based flow analysis prototype for securing component interactions (Java, Spring Boot, MongoDB).
 - 🗜 [Huffman-Compression](https://github.com/ronakj8617/Huffman-File-Compressor): File compressor in C++ using bit-level encoding and custom memory management.
 - 🗳 [Secure-EVoting-Backend](https://github.com/ronakj8617/E-voting): Biometric-authenticated, fault-tolerant voting backend (C++, Android (Java), ASP.NET (C#), SQLite, MySQL, Firebase).
-
 ---
