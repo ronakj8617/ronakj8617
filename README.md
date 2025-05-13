@@ -39,7 +39,7 @@
 ## 🗂 Featured Projects
 
 - 🔐 [Information-Flow-Tracker](https://github.com/ronakj8617/Information-Flow-Tracker): Taint-based flow analysis prototype for securing component interactions (Java, Spring Boot, MongoDB).
-- 🗜 [Huffman-Compression](https://github.com/ronakj8617/Huffman-Compression): File compressor in C++ using bit-level encoding and custom memory management.
-- 🗳 [Secure-EVoting-Backend](https://github.com/ronakj8617/Secure-EVoting-Backend): Biometric-authenticated, fault-tolerant voting backend (C++, SQLite, MySQL).
+- 🗜 [Huffman-Compression](https://github.com/ronakj8617/Huffman-File-Compressor): File compressor in C++ using bit-level encoding and custom memory management.
+- 🗳 [Secure-EVoting-Backend](https://github.com/ronakj8617/E-voting): Biometric-authenticated, fault-tolerant voting backend (C++, SQLite, MySQL).
 
 ---
