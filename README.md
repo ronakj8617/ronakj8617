@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ronak Parmar
 
-- 🔧 I work at the intersection of backend systems, low-level programming, and cloud infrastructure — building reliable, performant software in C++, Python, C#, and Java.
+- 🔧 I work at the intersection of backend systems, low-level programming, and cloud infrastructure — building reliable, performant software in C/C++, Python, and Java.
 - 🌱 I'm actively exploring GenAI and cybersecurity — especially where they intersect with system design and data flow integrity.
 - 🧪 Passionate about system-level programming, data security, and software architecture — always up for research collaborations in these areas.
 - 🧵 Talk to me about OS internals, multithreading, performance tuning, or any deep dive into input/output systems.
@@ -22,9 +22,6 @@
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt="ASP.NET" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
