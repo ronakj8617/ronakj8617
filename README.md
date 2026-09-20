@@ -36,8 +36,8 @@
 - 🏎️ [cpp-agent-runtime](https://github.com/ronakj8617/cpp-agent-runtime): Asynchronous execution runtime with POSIX PTY subprocess sandboxing and sub-microsecond JSON schema validation at >4.1M ops/sec (C++20, Boost.Asio, POSIX PTY).
 - 🛡️ [SafeC](https://github.com/ronakj8617/SafeC): Static vulnerability analyzer built from first principles (custom FSM lexer, recursive descent parser, AST visitor) detecting CWE Top 25 vulnerabilities across 115+ rules (C++17, CMake).
 - 🖥️ [Remote-Shell](https://github.com/ronakj8617/Remote-Shell): Multithreaded remote shell server with virtual isolated terminal spaces and signal-safe shutdown handlers (C++17, POSIX Sockets, Boost.Thread).
-- 🛰️ [Pub-Sub Server](https://gitlab.com/ronakj8617/Pub-Sub-System): High-throughput in-memory message broker with thread-safe topic dispatch, async I/O multiplexing, and REST control plane (C++17, Boost.Asio, Crow).
-- 📦 [P2P-File-Sharing](https://github.com/ronakj8617): Distributed peer-to-peer file transfer engine with 512KB parallel chunking, tracker coordination, and stateful download resumption (C++17, POSIX Sockets, pthreads).
+- 🛰️ [Pub-Sub Server](https://github.com/ronakj8617/Pub-Sub-Server): High-throughput in-memory message broker with thread-safe topic dispatch, async I/O multiplexing, and REST control plane (C++17, Boost.Asio, Crow).
+- 📦 [P2P-File-Sharing](https://github.com/ronakj8617/P2P-File-Sharing): Distributed peer-to-peer file transfer engine with 512KB parallel chunking, tracker coordination, and stateful download resumption (C++17, POSIX Sockets, pthreads).
 - 🗜 [Huffman-Compression](https://github.com/ronakj8617/Huffman-File-Compressor): File compressor in C++ using bit-level encoding and custom memory management (C++).
 
 ---
